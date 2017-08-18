@@ -21,7 +21,7 @@
   
           <div class="nav-item">
             <p class="control">
-              <a class="button is-primary is-outlined" href>
+              <a class="button is-primary is-outlined" href="https://github.com/JosuJubera/vue-proyecto">
                 <span class="icon">
                   <i class="fa fa-download"></i>
                 </span>
@@ -41,7 +41,7 @@
         <div class="content has-text-centered">
           <p>
             You can find the code on github.com
-            <a class="icon" href="https://github.com/jgthms/bulma">
+            <a class="icon" href="https://github.com/JosuJubera/vue-proyecto">
               <i class="fa fa-github"></i>
             </a>
           </p>
